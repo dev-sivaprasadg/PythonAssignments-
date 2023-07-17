@@ -1,0 +1,1 @@
+print("Hello 🌍! \n My first python code 😁")
